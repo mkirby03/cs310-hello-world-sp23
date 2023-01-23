@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Makiya Kirby
  */
 
 public class Class2 {
